@@ -1,5 +1,6 @@
-package com.example.learningspringbootproductservice.product;
+package com.example.learningspringbootproductservice.product.repository;
 
+import com.example.learningspringbootproductservice.product.model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
