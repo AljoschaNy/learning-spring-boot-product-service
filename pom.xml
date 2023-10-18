@@ -14,7 +14,7 @@
     <name>learning-spring-boot-product-service</name>
     <description>learning-spring-boot-product-service</description>
     <properties>
-        <java.version>20</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
